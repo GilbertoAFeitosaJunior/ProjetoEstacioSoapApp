@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SOAP_ACTION_LOGIN">"http://soap.projetoestacio.stos.mobi/LoginWS/loginRequest"</string>
+    <string name="METHOD_NAME_LOGIN">"login"</string>
+    <string name="NAMESPACE_LOGIN">"http://soap.projetoestacio.stos.mobi/"</string>
+    <string name="URL_LOGIN">"http://192.168.10.113:8084/projetoestacio/LoginWSService?wsdl"</string>
+
+
+
+    <string name="SOAP_ACTION_ALUNO">"http://soap.projetoestacio.stos.mobi/AlunoWS/pesquisarRequest"</string>
+    <string name="METHOD_NAME_ALUNO">"pesquisar"</string>
+    <string name="NAMESPACE_ALUNO">"http://soap.projetoestacio.stos.mobi/"</string>
+    <string name="URL_ALUNO">"http://192.168.10.113:8084/projetoestacio/AlunoWSService?wsdl"</string>
+
+
+</resources>

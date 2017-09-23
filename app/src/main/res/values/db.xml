@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="db_name">projeto_estacio</string>
+    <integer name="db_version">1</integer>
+    <string-array name="db_scan">
+        <item> br.com.projetoestacioapp.bean.Usuario</item>
+        <item> br.com.projetoestacioapp.bean.Aluno</item>
+    </string-array>
+    <string name="db_log">false</string>
+</resources>

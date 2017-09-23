@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProjetoEstacioApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="mensagem_login">Bem vindo ao ProjetoEstácio! Antes de começar a usar o aplicativo é necessário fazer seu login."</string>
+    <string name="title_login_erro">Aviso</string>
+    <string name="msg_erro_login">Falha ao tentar  entrar no sistema, verifique seu login, senha ou  a sua conexão e tente novamente.</string>
+    <string name="ok">OK</string>
+    <string name="msg_campo_branco">Não é permitido campos em branco</string>
+    <string name="carregando">Carregando...</string>
+    <string name="perfil">Meu Perfil</string>
+    <string name="erro_campos_em_branco">Favor preencher todos os campos</string>
+    <string name="em_desenvolvimento">Em desenvolvimento</string>
+    <string name="ultimo_acesso">Ultimo acesso em:</string>
+    <string name="email">E-mail: </string>
+    <string name="alunos">Alunos</string>
+    <string name="nada_para_mostrar">Nada para mostrar ainda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
